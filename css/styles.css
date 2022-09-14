@@ -1,0 +1,12 @@
+h1 {
+	font-family: helvetica;
+}
+
+body {
+	margin: 20px;
+	text-align: center;
+}
+
+#paint {
+	height: 600px;
+}
