@@ -3,10 +3,11 @@ h1 {
 }
 
 body {
-	margin: 20px;
+	margin: 40px;
 	text-align: center;
 }
 
 #paint {
 	height: 600px;
 }
+
